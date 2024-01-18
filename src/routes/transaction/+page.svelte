@@ -144,6 +144,7 @@
 									</Badge>
 								{/if}
 							</div>
+							
 							<TableBodyCell class="px-2 py-2 text-center text-[#475466]">{data.date}</TableBodyCell
 							>
 							<TableBodyCell class="flex items-center gap-2 px-2 py-2 text-[#475466]"
